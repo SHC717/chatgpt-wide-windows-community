@@ -1,0 +1,55 @@
+{
+  "generated": "2026-10-26",
+  "method": "Codex built-in image_gen",
+  "kind": "layout illustration",
+  "files": [
+    {
+      "id": "hero",
+      "path": "media/hero.png",
+      "width": 1672,
+      "height": 940,
+      "bytes": 1486335,
+      "sha256": "22c30a4be489a71e2026795b09e89815b54349c53f405cfe9323622f291ad9b8"
+    },
+    {
+      "id": "01",
+      "path": "media/douyin/01-pain.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1547914,
+      "sha256": "d50f630812c66059bca4a28c2adee6d95d64aa70b9bc620700b9f1f5a187cc61"
+    },
+    {
+      "id": "02",
+      "path": "media/douyin/02-width.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1492414,
+      "sha256": "3c6c9ba6ed681dacca44cbe36efc20f6355edd0e7be0c7cd57e8baaee20883eb"
+    },
+    {
+      "id": "03",
+      "path": "media/douyin/03-reading.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1506121,
+      "sha256": "ca027f31cd85b75d5dd1699e33a3c0e7e8f4934a96c46285fb531dd342658f36"
+    },
+    {
+      "id": "04",
+      "path": "media/douyin/04-windows.png",
+      "width": 940,
+      "height": 1672,
+      "bytes": 1498664,
+      "sha256": "a8e550ed6844bbbdba06aa2d5a413a38fa3f9fa244157bce884a19422aadc066"
+    },
+    {
+      "id": "05",
+      "path": "media/douyin/05-open-source.png",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1601863,
+      "sha256": "4f8b5215d118f8adca2ce1b878d9b5a5d2c96a4d8060a15bacfcf1592f5c5701"
+    }
+  ]
+}

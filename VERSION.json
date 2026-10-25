@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "0.2.0-community.1",
+  "featureRevision": "multi-window.1",
+  "tableRevision": "table-layout.2",
+  "widthPercent": 90,
+  "platform": "windows-x64",
+  "officialPackage": "OpenAI.Codex",
+  "officialExecutable": "app/ChatGPT.exe",
+  "debugTransport": "inherited-pipe"
+}

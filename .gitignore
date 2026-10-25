@@ -1,0 +1,14 @@
+# Build products and device-local configuration are not portable source.
+*.exe
+*.ico
+*.lnk
+*.local.json
+deployment.json
+state/
+staging/
+backups/
+node_modules/
+__pycache__/
+*.log
+Thumbs.db
+.DS_Store
